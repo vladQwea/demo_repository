@@ -7,3 +7,5 @@ Form the lines
 Shield by shield
 
 Some more lines in feature
+
+Sone inform in master
