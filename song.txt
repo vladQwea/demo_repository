@@ -10,3 +10,5 @@ Some content
 
 Some content in feature branch
 
+Only for tag
+
